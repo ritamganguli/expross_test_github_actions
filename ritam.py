@@ -2,8 +2,8 @@ import requests
 import base64
 
 # Replace these values with your actual credentials and file paths
-username = "shubhamr"
-access_key = "dl8Y8as59i1YyGZZUeLF897aCFvIDmaKkUU1e6RgBmlgMLIIhh"
+username = "user_name"
+access_key = "acess_key_of_lt"
 app_file_path = "proverbial_android.apk"
 test_suite_file_path = "proverbial_android_expressotest.apk"
 
